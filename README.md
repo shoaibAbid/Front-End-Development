@@ -1,2 +1,3 @@
 # bootstrap-5
-This fiest front end web development task
+This is a front-end web development project using Bootstrap.
+
